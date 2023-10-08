@@ -1,0 +1,15 @@
+import java.util.*;
+public class Solution02 {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		double s1 = sc.nextDouble();
+		double s2 = sc.nextDouble();
+		
+		if(s1%1 == 0 || s2%1 == 0 )
+			System.out.println("NOT A DOUBLE");
+		else 
+			System.out.println((s1+s2)/2);
+		
+			
+	}
+}

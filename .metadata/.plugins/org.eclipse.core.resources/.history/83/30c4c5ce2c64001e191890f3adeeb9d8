@@ -1,0 +1,10 @@
+import java.util.*;
+public class Solution02 {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		double s1 = sc.next();
+		double s2 = sc.next();
+		if(s1 instanceof Double)
+			
+	}
+}
