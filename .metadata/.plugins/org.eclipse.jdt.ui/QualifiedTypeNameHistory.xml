@@ -9,4 +9,9 @@
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="solution02.point2d.Point2D"/>
     <fullyQualifiedTypeName name="solution03.DriveCost"/>
+    <fullyQualifiedTypeName name="com.app.fruits.Mango"/>
+    <fullyQualifiedTypeName name="com.app.fruits.Fruit"/>
+    <fullyQualifiedTypeName name="com.app.fruits.Orange"/>
+    <fullyQualifiedTypeName name="com.app.fruits.Apple"/>
+    <fullyQualifiedTypeName name="com.app.tester.FruitBasket"/>
 </qualifiedTypeNameHistroy>
