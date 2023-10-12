@@ -5,7 +5,6 @@
     <fullyQualifiedTypeName name="solution03.Date"/>
     <fullyQualifiedTypeName name="solution04.com.app.geometry.Point2D"/>
     <fullyQualifiedTypeName name="solution01.Customers"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="solution02.point2d.Point2D"/>
     <fullyQualifiedTypeName name="solution03.DriveCost"/>
@@ -14,4 +13,14 @@
     <fullyQualifiedTypeName name="com.app.fruits.Orange"/>
     <fullyQualifiedTypeName name="com.app.fruits.Apple"/>
     <fullyQualifiedTypeName name="com.app.tester.FruitBasket"/>
+    <fullyQualifiedTypeName name="Employee"/>
+    <fullyQualifiedTypeName name="SalariedEmployee"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="HourlyEmployee"/>
+    <fullyQualifiedTypeName name="CommEmployee"/>
+    <fullyQualifiedTypeName name="BaseSalariedCommEmployee"/>
+    <fullyQualifiedTypeName name="java.lang.VerifyError"/>
+    <fullyQualifiedTypeName name="solution02.com.app.vehicle.Vehicle"/>
+    <fullyQualifiedTypeName name="solution01.BaseSalariedCommEmployee"/>
 </qualifiedTypeNameHistroy>
