@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy/>
+<typeInfoHistroy>
+    <typeInfo handle="=Assignment06/\/usr\/lib\/jvm\/java-11-openjdk-amd64\/lib\/jrt-fs.jar`java.base=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/11\/docs\/api\/=/&lt;java.lang(RuntimeException.class[RuntimeException" modifiers="33" timestamp="1692916388000"/>
+    <typeInfo handle="=Assignment06/\/usr\/lib\/jvm\/java-11-openjdk-amd64\/lib\/jrt-fs.jar`java.base=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/11\/docs\/api\/=/&lt;java.lang(Object.class[Object" modifiers="33" timestamp="1692916388000"/>
+    <typeInfo handle="=Assignment06/src&lt;solution04_optional{Electronics.java[Electronics" modifiers="1025" timestamp="1697188240029"/>
+</typeInfoHistroy>
