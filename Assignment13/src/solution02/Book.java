@@ -1,9 +1,10 @@
-package solution01;
+package solution02;
+
 import java.io.Serializable;
 import java.util.Objects;
 import java.util.Scanner;
 
-public class Book{
+public class Book implements Serializable{
 	private String ibsn;
 	private double price;
 	private String authorName;
