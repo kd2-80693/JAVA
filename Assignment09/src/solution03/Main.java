@@ -6,19 +6,20 @@ import java.util.Comparator;
 public class Main {
 
 	public static void main(String[] args) {
-		
-		class StudentComparator implements Comparator<Student> {
+
+		class StudentComparator implements Comparator<Student>
+		{
 
 			@Override
 			public int compare(Student s1, Student s2) {
-				int diff = -s1.getCity().compareTo(s2.getCity());
-				if (diff == 0)
-					diff = -(int) (s1.getMarks() - s2.getMarks());
-				if (diff == 0)
+				int diff = - s1.getCity().compareTo(s2.getCity());
+				if(diff == 0 )
+					diff = -  (Double.compare(s1.getMarks(),s2.getMarks() )) ;
+				if(diff == 0)
 					diff = s1.getName().compareTo(s2.getName());
 				return diff;
 			}
-
+			
 		}
 		Student[] arr = new Student[5];
 		arr[0] = new Student(1, "om", "pune", 34);

@@ -4,20 +4,13 @@ public class Main {
 
 static <T extends Number> T findMin(T [] arr) {
 		T min = arr[0];
-		for (T ele : arr) {
-			if(ele.doubleValue()<min.doubleValue()) min=ele;
+		for(T n : arr)
+		{
+			if(n.doubleValue()<min.doubleValue())
+				min = n;
 		}
 		return min;
-		
 	}
-	
-	/*
-	 * static <T extends Number> T findMin(T [] arr) {
-	 * 
-	 * Arrays.sort(arr); return arr[0];
-	 * 
-	 * }
-	 */
 
 public static void main(String[] args) {
 	

@@ -28,10 +28,8 @@ public class Main {
 
 			@Override
 			public int compare(Double a, Double b) {
-				
-				if(a==b) return 0;
-				else if (a>b) return 1;
-				else return -1;
+				int diff = Double.compare(a, b);
+				return diff;
 			}
 	    	
 	    }
